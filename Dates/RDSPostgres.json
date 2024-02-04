@@ -108,11 +108,31 @@
     "rds_end_of_standard_support_date": "March 2024"
   },
   {
-    "postgresql_minor_engine_version": "11.22*",
+    "postgresql_minor_engine_version": "11.22",
     "rds_end_of_standard_support_date": "February 2024"
   },
   {
     "postgresql_minor_engine_version": "11.21",
     "rds_end_of_standard_support_date": "February 2024"
+  },
+  {
+    "postgresql_minor_engine_version": "11.20",
+    "rds_end_of_standard_support_date": "16 January 2024"
+  },
+  {
+    "postgresql_minor_engine_version": "11.19",
+    "rds_end_of_standard_support_date": "16 January 2024"
+  },
+  {
+    "postgresql_minor_engine_version": "11.18",
+    "rds_end_of_standard_support_date": "16 January 2024"
+  },
+  {
+    "postgresql_minor_engine_version": "11.17",
+    "rds_end_of_standard_support_date": "16 January 2024"
+  },
+  {
+    "postgresql_minor_engine_version": "11.16",
+    "rds_end_of_standard_support_date": "16 January 2024"
   }
 ]
